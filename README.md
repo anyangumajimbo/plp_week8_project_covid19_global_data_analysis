@@ -54,14 +54,20 @@ optional: slides/ – Exported presentation (if required)
 **📈 Sample Visualizations**
 
 Total COVID-19 deaths over time (line chart)
+
 ![image](https://github.com/user-attachments/assets/33ca571d-a31b-4008-a093-c59f6595d1a7)
 
 
+
 Vaccination progress by country (% of population)
+
 ![image](https://github.com/user-attachments/assets/bbbb060f-53f9-47ba-b54c-9daaf5efd0d3)
 
+
 Death rate comparison between selected countries
+
 ![image](https://github.com/user-attachments/assets/d2ce8a4d-44a5-4b53-8a8e-84044e75c66e)
+
 
 
 **📦 How to Run the Notebook**
@@ -80,9 +86,10 @@ Data from Our World in Data: https://github.com/owid/covid-19-data/tree/master/p
 
 **📽️ Project Slides**
 
-Here is the link to the slides summarizing the project findings and visualizations: View Slides
+Here is the link to the slides summarizing the project findings and visualizations: https://prezi.com/view/ZZHaUKIfIXAyOlVdYvfW/
 
 
 **📄 License**
+
 
 This project is for educational purposes only.
